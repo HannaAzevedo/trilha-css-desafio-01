@@ -1,6 +1,6 @@
 # Projeto Landing Page com HTML e CSS
 
-Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS, as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas que aprendidos no curso.
+Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS, as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas aprendidas no curso.
 
 [Clique aqui](https://hannaazevedo.github.io/trilha-css-desafio-01/) para acessar o resultado final da Landing Page criada a partir do desafio!
 
