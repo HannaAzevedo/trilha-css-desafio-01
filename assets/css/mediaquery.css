@@ -1,54 +1,72 @@
 @media screen and (max-width: 768px) {
 
-
-    .banner {
-        padding: 30px;
-        height: fit-content;
+    body, html {
+        width: 100vw;
+        height: 100vh;
     }
-
-
-    .banner p {
+   
+    section {
         max-width: 100%;
-        height: fit-content !important;
+        padding: 0 30px 0;
     }
 
-    div.banner-content button {
-        margin-bottom: 30px;
+    h2 {
+        max-width: 100%;
+        margin: auto;
+        padding: 0;
+        font-size: 1.2em !important;
+        word-wrap: break-word;
     }
 
-    section#course-content {
+    header.banner {
+        height: fit-content;
         padding: 30px;
-        margin: 30px 0;
+        margin-bottom: 24px;
     }
+    header.banner button {
+        max-width: 100%;
+        padding: 16px;
+        word-wrap: break-word;
+    }
+
+    div.banner-content {
+        width: 100%;
+    }
+
+    div.banner-content .logo {
+        max-width: 100%;
+    }
+
+    section#course-content .modules-list .module {
+        max-width: 100%;
+    }
+
 
     section#transform-world {
-        max-width: 100%;
-        padding: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        padding: 0 30px;
     }
 
     section#transform-world p {
-        width: max-content;
-    }
+        max-width: 100%;
+        font-size: 2rem;
 
-    section#professional-challenges {
-        padding: 30px;
-    }
-
-    section#professional-challenges h2 {
-        font-size: 1em;
     }
 
     section#professional-challenges img {
-        margin: 30px;
         max-width: 100%;
     }
 
     footer {
-        padding: 30px;
+        padding: 16px;
     }
+
     footer img {
-        padding: 30px;
         max-width: 100%;
     }
+
 
 }
